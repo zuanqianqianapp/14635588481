@@ -35,13 +35,13 @@
 	function checkPlatform(){
 
   if(/android/i.test(navigator.userAgent)){
-	 $('.down-btn').attr('href','http://bmob-cdn-16052.b0.upaiyun.com/2018/09/06/22f7feb2403eff3c80be4bef7f3ecf04.apk');
+	 $('.down-btn').attr('href','安卓URL.apk');
 	 $('.introduce-img').css('display','none');
 	 console.log(2)
   }
 
   if(/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)){
-	$('.down-btn').attr('href','itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/zuanqianqianapp/881741141/master/PropertyList.plist');
+	$('.down-btn').attr('href','itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/zuanqianqianapp/14635588481/master/PropertyList.plist');
 	console.log(1)
   }
 }
