@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://bmob-cdn-16052.b0.upaiyun.com/2018/09/07/140141854080658a800c0577bfe23392.ipa</string>
+					<string>http://bmob-cdn-16052.b0.upaiyun.com/2018/10/01/685bb00d40844e47800fa48e641d902b.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rb.ios.YHYL</string>
+				<string>qijiduchang5685</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>澳门银河</string>
+				<string>奇迹赌场</string>
 			</dict>
 		</dict>
 	</array>
